@@ -2,6 +2,5 @@
 *.[oda]
 .vscode/
 *a.out
-*ninja_play
-*ninja_test
+*obj/src/ninja_play/
 *output.txt
